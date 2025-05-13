@@ -20,10 +20,4 @@ This project is a simple **Streamlit web app** that allows users to upload a PDF
 - FAISS
 - OpenAI GPT-3.5 Turbo
 
-## 🖥️ Getting Started
 
-### 1. Clone this repository
-
-```bash
-git clone https://github.com/yourusername/pdf-summarizer.git
-cd pdf-summarizer
